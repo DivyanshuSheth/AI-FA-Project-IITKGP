@@ -1,5 +1,5 @@
-# AIFA-Assignment-1
-Solution for Assignment 1, AIFA Spring 2021
+# AIFA-Project-IITKGP-Spring2021
+Project (Assignment 1), AIFA Spring 2021
 
 ## Table of Contents
 1. Problem Description
