@@ -35,7 +35,7 @@ Post running these cells, after some short time, the paths which the robots shou
 
 ## Contributors
 The following students have contributed equally towards solving the assignment:
-1. Saransh Gupta           |  17QM30005
-2. Mridul Agarwal          |  17QE30008
-3. Aniruddha Chattopadhyay |  17QE30007
-4. Divyanshu Sheth         |  18QE30008
+1. Divyanshu Sheth         |  18QE30008
+2. Saransh Gupta           |  17QM30005
+3. Mridul Agarwal          |  17QE30008
+4. Aniruddha Chattopadhyay |  17QE30007 
